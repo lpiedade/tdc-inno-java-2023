@@ -8,7 +8,7 @@ Speaker:
 * [Leonardo Piedade](https://bit.ly/linkedin-leoap)
 * [Tiago Reichert](bit.ly/tiagoReichert)
 
-Presentation Deck: [here]([https://bit.ly/tdcsp-2022-deck](https://bit.ly/tdc-inno-java-2023-deck))
+Presentation Deck: [here]([https://bit.ly/tdcsp-2022-deck](https://bit.ly/tdc-inno-java-2023-deck)
 
 
 ---
