@@ -6,7 +6,7 @@
 
 Speaker:
 * [Leonardo Piedade](https://bit.ly/linkedin-leoap)
-* [Tiago Reichert](bit.ly/tiagoReichert)
+* [Tiago Reichert](https://bit.ly/tiagoReichert)
 
 Presentation Deck: [here](https://bit.ly/tdc-inno-java-2023-deck)
 
